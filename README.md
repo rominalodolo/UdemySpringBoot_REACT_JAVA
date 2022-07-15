@@ -19,6 +19,7 @@ Make sure that `/usr/local/bin` is in your $PATH.
 ![version](https://user-images.githubusercontent.com/83961643/179249144-1a6438c9-9084-4920-9ccb-6c581d975e77.jpeg)
 ![npm](https://user-images.githubusercontent.com/83961643/179249153-1d29453f-8404-4b13-996b-b91d85ae11bd.jpeg)
 
+![npm](https://user-images.githubusercontent.com/83961643/179249812-0edb12f4-c001-41f0-a3f5-e9811797f164.jpeg)
 
 
 
