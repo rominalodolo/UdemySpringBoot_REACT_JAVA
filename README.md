@@ -37,5 +37,9 @@ Creating the Todo App:
 ![react](https://user-images.githubusercontent.com/83961643/179256771-32de639f-1dac-4364-93b1-1f34b6705975.jpeg)
 
 
+Opening up the app in VS code: 
+
+![vs](https://user-images.githubusercontent.com/83961643/179257523-3c5cee29-bc08-43b1-b6fe-332c3351a4d6.jpeg)
+
 
 Last Edit: July 2022
