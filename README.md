@@ -22,5 +22,12 @@ Make sure that `/usr/local/bin` is in your $PATH.
 ![npm](https://user-images.githubusercontent.com/83961643/179249812-0edb12f4-c001-41f0-a3f5-e9811797f164.jpeg)
 
 
+The Created JSON file opened in VS code: 
+![json](https://user-images.githubusercontent.com/83961643/179250345-797403f3-8309-4174-b888-65dc2d0115d9.jpeg)
+
+
+`npm install jquery`
+![jq](https://user-images.githubusercontent.com/83961643/179250663-fba1da12-b83c-404f-9a05-999a27f403ff.jpeg)
+
 
 Last Edit: July 2022
