@@ -11,8 +11,11 @@ Intallations:
 
 [NodeJs](https://nodejs.org/en/download/) 
 `` This package has installed:
+
 	•	Node.js v16.16.0 to /usr/local/bin/node
+
 	•	npm v8.11.0 to /usr/local/bin/npm
+
 Make sure that /usr/local/bin is in your $PATH.``
 
 
