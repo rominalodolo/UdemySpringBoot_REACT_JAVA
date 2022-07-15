@@ -17,8 +17,10 @@ Intallations:
 	•	npm v8.11.0 to /usr/local/bin/npm
 
 Make sure that /usr/local/bin is in your $PATH.```
-![version](https://user-images.githubusercontent.com/83961643/179217962-3800d8e4-73a4-4a7a-9edf-7003678bf81e.jpeg)
-![npm](https://user-images.githubusercontent.com/83961643/179218261-c840644a-a9e6-4bbd-a878-34f7196187f5.jpeg)
+
+![version](https://user-images.githubusercontent.com/83961643/179249144-1a6438c9-9084-4920-9ccb-6c581d975e77.jpeg)
+![npm](https://user-images.githubusercontent.com/83961643/179249153-1d29453f-8404-4b13-996b-b91d85ae11bd.jpeg)
+
 
 
 
