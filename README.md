@@ -27,9 +27,15 @@ The Created JSON file opened in VS code:
 
 
 `npm install jquery`
+
 ![jq](https://user-images.githubusercontent.com/83961643/179250663-fba1da12-b83c-404f-9a05-999a27f403ff.jpeg)
 
+
 Creating the Todo App:
+
 ![to](https://user-images.githubusercontent.com/83961643/179256068-b6440271-aed4-4df6-a0d3-32295d80490a.jpeg)
+![react](https://user-images.githubusercontent.com/83961643/179256771-32de639f-1dac-4364-93b1-1f34b6705975.jpeg)
+
+
 
 Last Edit: July 2022
