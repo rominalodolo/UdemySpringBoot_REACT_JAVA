@@ -41,5 +41,9 @@ Opening up the app in VS code:
 
 ![vs](https://user-images.githubusercontent.com/83961643/179257523-3c5cee29-bc08-43b1-b6fe-332c3351a4d6.jpeg)
 
+> Spring Boot Tutorial For Beginners: [Link](https://www.youtube.com/watch?v=pcdpk3Yd1EA)
+>
+> JPA And Hibernate Tutorial For Beginners with Spring Boot and Spring Data JPA: [Link](https://www.youtube.com/watch?v=MaI0_XdpdP8)
+
 
 Last Edit: July 2022
