@@ -45,5 +45,8 @@ Opening up the app in VS code:
 >
 > JPA And Hibernate Tutorial For Beginners with Spring Boot and Spring Data JPA: [Link](https://www.youtube.com/watch?v=MaI0_XdpdP8)
 
+Update in React vs the course code: 
+
+![error](https://user-images.githubusercontent.com/83961643/180209456-1432a788-be3d-4e9b-bbfa-2fb841d404a6.jpeg)
 
 Last Edit: July 2022
