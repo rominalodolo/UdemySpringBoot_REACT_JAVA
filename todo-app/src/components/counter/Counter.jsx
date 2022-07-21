@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import './Counter.css'
 
 class Counter extends Component {
+    // define the initial state in a constructor 
 
     constructor() {
         super();
@@ -45,7 +46,7 @@ class CounterButton extends Component {
                 <span className="small-count">{this.state.counter}</span>
             </div>
         )
-    }
+    }  
 
     increment() {
         this.setState({ counter: this.state.counter + this.props.by });
