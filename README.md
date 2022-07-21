@@ -60,4 +60,10 @@ App.js File before I update with the counter app
 ![app](https://user-images.githubusercontent.com/83961643/180249631-351fa2a9-2a2b-48b0-95c9-63326aed957b.jpeg)
 
 
+Counter App Working: 
+![counter app working](https://user-images.githubusercontent.com/83961643/180251637-d747838d-86a1-457b-8930-22f3cebd038e.jpeg)
+
+
+
 Last Edit: July 2022
+
