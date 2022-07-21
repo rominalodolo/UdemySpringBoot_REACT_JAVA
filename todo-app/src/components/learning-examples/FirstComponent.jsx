@@ -13,3 +13,6 @@ class FirstComponent extends Component {
 }
 
 export default FirstComponent;
+
+// ⛔️ Error: Parsing error: Only one
+// default export allowed per module.
