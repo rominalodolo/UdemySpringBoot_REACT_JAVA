@@ -48,5 +48,8 @@ Opening up the app in VS code:
 Update in React vs the course code: 
 
 ![error](https://user-images.githubusercontent.com/83961643/180209456-1432a788-be3d-4e9b-bbfa-2fb841d404a6.jpeg)
+![code](https://user-images.githubusercontent.com/83961643/180209579-83b2c570-fd4b-4578-b997-25d378e7ddef.jpeg)
+
+
 
 Last Edit: July 2022
