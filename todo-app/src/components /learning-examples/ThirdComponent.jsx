@@ -12,3 +12,5 @@ export default class ThirdComponent extends Component {
         );
     }
 }
+
+export default ThirdComponent;
