@@ -54,4 +54,8 @@ Understanding how React works:
 ![understanding](https://user-images.githubusercontent.com/83961643/180226716-783989b6-8dab-4d80-821d-bf72a0b8698c.jpeg)
 
 
+App.js File before I update with the counter app 
+![app](https://user-images.githubusercontent.com/83961643/180249631-351fa2a9-2a2b-48b0-95c9-63326aed957b.jpeg)
+
+
 Last Edit: July 2022
