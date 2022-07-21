@@ -50,6 +50,8 @@ Update in React vs the course code:
 ![error](https://user-images.githubusercontent.com/83961643/180209456-1432a788-be3d-4e9b-bbfa-2fb841d404a6.jpeg)
 ![code](https://user-images.githubusercontent.com/83961643/180209579-83b2c570-fd4b-4578-b997-25d378e7ddef.jpeg)
 
+Understanding how React works: 
+![understanding](https://user-images.githubusercontent.com/83961643/180226716-783989b6-8dab-4d80-821d-bf72a0b8698c.jpeg)
 
 
 Last Edit: July 2022
