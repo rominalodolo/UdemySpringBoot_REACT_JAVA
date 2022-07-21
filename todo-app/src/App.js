@@ -4,6 +4,8 @@ import './App.css';
  
 
 // Function component 
+// App is known as a parent component 
+// Any javascript file is called a module 
 
 class App extends Component {
   render() {
