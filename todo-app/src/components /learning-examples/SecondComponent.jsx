@@ -3,11 +3,11 @@
 import React, { Component } from "react";
 import { render } from "@testing-library/react";
 
-export default class FirstComponent extends Component {
+export default class SecondComponent extends Component {
     render() {
         return (
-            <div className="firstComponent">
-            FirstComponent
+            <div className="secondComponent">
+            SecondComponent
             </div>
         );
     }
