@@ -30,9 +30,11 @@ class Counter extends Component {
 }
 
 class CounterButton extends Component {
+    // Define the initial state in a constructor 
+    // state => counter 0
 
     constructor() {
-        super();
+        super(); // Error
 
         this.state = { counter: 0 }
 
