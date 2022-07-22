@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import AuthenticatedRoute from './AuthenticatedRoute.jsx'
 import LoginComponent from './LoginComponent.jsx'
 import ListTodosComponent from './ListTodosComponent.jsx'
@@ -17,8 +17,8 @@ class TodoApp extends Component {
                 <Router>
                     <>
                         <HeaderComponent/>
-                        <Switch>
-                            <Route path="/" exact component={LoginComponent}/>
+                        <Routes>
+                            <Route path="/welcome" exact component={ <LoginComponent/> } />
                             <Route path="/login" component={LoginComponent}/>
                             <AuthenticatedRoute path="/welcome/:name" component={WelcomeComponent}/>
                             <AuthenticatedRoute path="/todos/:id" component={TodoComponent}/>
@@ -26,7 +26,7 @@ class TodoApp extends Component {
                             <AuthenticatedRoute path="/logout" component={LogoutComponent}/>
                             
                             <Route component={ErrorComponent}/>
-                        </Switch>
+                        </Routes>
                         <FooterComponent/>
                     </>
                 </Router>
