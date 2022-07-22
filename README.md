@@ -68,6 +68,10 @@ Counter App Working:
 
 ![app](https://user-images.githubusercontent.com/83961643/180253605-3c1da39d-5c95-450c-98cd-a8d6358c36ca.jpeg)
 
+Final Version of the Counter App:
+
+![counterappFinal](https://user-images.githubusercontent.com/83961643/180486931-adf01b5c-f8cc-44b8-b92a-b4a946fabeab.jpeg)
+
 
 Last Edit: July 2022
 
