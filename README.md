@@ -97,6 +97,11 @@ http://localhost:8080/hello-world-bean
 
 ![debug](https://user-images.githubusercontent.com/83961643/180829458-281667fb-8f0d-4d36-a22b-796f3e7ad0cd.jpeg)
 
+Dispatcher servlet 
+![servlets](https://user-images.githubusercontent.com/83961643/180830044-510e088b-12bf-4543-8de6-b345f95dbc12.jpeg)
+
+
+
 
 Last Edit: July 2022
 
