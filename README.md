@@ -100,7 +100,9 @@ http://localhost:8080/hello-world-bean
 Dispatcher servlet 
 ![servlets](https://user-images.githubusercontent.com/83961643/180830044-510e088b-12bf-4543-8de6-b345f95dbc12.jpeg)
 
+http://localhost:8080/hello-world/path-variable/romina
 
+![name](https://user-images.githubusercontent.com/83961643/180847916-cd69dd19-a8f9-411c-88f2-be521a828611.jpeg)
 
 
 Last Edit: July 2022
