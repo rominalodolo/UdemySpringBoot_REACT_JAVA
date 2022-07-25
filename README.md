@@ -82,13 +82,18 @@ Creating the restful-web-services app
 ![services](https://user-images.githubusercontent.com/83961643/180814354-4087efc5-8403-4bba-b3ef-afd9acc42b55.jpeg)
 
 http://localhost:8080/hello-world 
+
 ![testhello](https://user-images.githubusercontent.com/83961643/180819873-dd2206e7-aab2-45ba-84f6-31cb5c99649e.jpeg)
 ![testing](https://user-images.githubusercontent.com/83961643/180820037-de2c7647-2695-44ef-8fa7-3404dc8d438a.jpeg)
 
 Change the GET Method to GetMapping only 
+
 ![change](https://user-images.githubusercontent.com/83961643/180820209-3691c78c-d4b3-4338-8aa2-3d2bb2425960.jpeg)
 
 
+http://localhost:8080/hello-world-bean
+
+![working](https://user-images.githubusercontent.com/83961643/180828809-5ebf2f16-12d5-46e3-a7c7-cad6308c3ebf.jpeg)
 
 
 Last Edit: July 2022
