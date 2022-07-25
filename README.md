@@ -95,6 +95,8 @@ http://localhost:8080/hello-world-bean
 
 ![working](https://user-images.githubusercontent.com/83961643/180828809-5ebf2f16-12d5-46e3-a7c7-cad6308c3ebf.jpeg)
 
+![debug](https://user-images.githubusercontent.com/83961643/180829458-281667fb-8f0d-4d36-a22b-796f3e7ad0cd.jpeg)
+
 
 Last Edit: July 2022
 
