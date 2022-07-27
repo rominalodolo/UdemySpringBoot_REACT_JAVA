@@ -106,6 +106,12 @@ http://localhost:8080/hello-world/path-variable/romina
 
 ![loginerrors](https://user-images.githubusercontent.com/83961643/181042653-8d595545-5050-42b4-86ac-9c237769d6af.jpeg)
 
+Downloading Chrome extension: 
+![extension](https://user-images.githubusercontent.com/83961643/181219384-b9467f9f-6849-49c2-88ff-1ca67b886f92.jpeg)
+
+Restlet Client changed to Talend: [Check Press Releases](https://www.talend.com/about-us/press-releases/)
+
+![save](https://user-images.githubusercontent.com/83961643/181219462-e75c1e28-41a2-49b9-982a-9d5426022ef7.jpeg)
 
 
 Last Edit: July 2022
