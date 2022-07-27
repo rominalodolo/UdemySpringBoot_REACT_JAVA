@@ -115,6 +115,10 @@ Restlet Client changed to [Talend](https://info.talend.com/request_apiworkbench.
 
 ![p](https://user-images.githubusercontent.com/83961643/181229960-275e4b5a-56f1-47f9-97c5-e49f0fa68a30.jpeg)
 
+Adding the security Dependency 
+
+![addingdependency](https://user-images.githubusercontent.com/83961643/181365853-645a5d53-bb77-41ee-8d8b-f6c734302e26.jpeg)
+
 
 Last Edit: July 2022
 
