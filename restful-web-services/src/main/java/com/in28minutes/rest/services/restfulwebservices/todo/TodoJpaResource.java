@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.in28minutes.rest.webservices.restfulwebservices.todo.Todo;
+import com.in28minutes.rest.services.restfulwebservices.todo.Todo;
 
 @CrossOrigin(origins="http://localhost:3000")
 @RestController
