@@ -139,8 +139,6 @@ Linking the Bootstrap:
 
 ![invalid](https://user-images.githubusercontent.com/83961643/182207353-3a906383-1856-473c-9184-79fcae3a3a4d.jpeg)
 
-![add](https://user-images.githubusercontent.com/83961643/182211052-308dddc3-2d50-4423-9a11-b698b48c5720.jpeg)
-
 
 [JWT](https://github.com/in28minutes/full-stack-with-react-and-spring-boot/blob/73ea92e4be99af40b9283b810a00a1ad0d0733f2/README.md)
 
