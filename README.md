@@ -148,6 +148,17 @@ Linking the Bootstrap:
 
 ![app](https://user-images.githubusercontent.com/83961643/182211403-618f7371-d629-43d6-ad94-569a373db61c.jpeg)
 
+![api](https://user-images.githubusercontent.com/83961643/182254694-cbc13cb7-3325-43c2-a074-55b87af7fd70.jpeg)
 
-Last Edit: July 2022
+![console](https://user-images.githubusercontent.com/83961643/182254704-1112d61e-9335-4523-973c-3e861a40d02b.jpeg)
+
+![correct](https://user-images.githubusercontent.com/83961643/182254717-cb729584-0817-4aa2-ab68-57fe9d632009.jpeg)
+
+![data](https://user-images.githubusercontent.com/83961643/182254721-7384cfc9-af14-4618-aa75-afe4e7f13494.jpeg)
+
+
+
+
+
+Last Edit: August 2022
 
