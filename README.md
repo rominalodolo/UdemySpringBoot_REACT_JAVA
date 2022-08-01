@@ -130,6 +130,12 @@ Solving Your Problems with Basic Authentication
 
 ![info](https://user-images.githubusercontent.com/83961643/182184470-f5abd5e7-0b85-4ab4-bd7b-28c96e3a158d.jpeg)
 
+![todos](https://user-images.githubusercontent.com/83961643/182203588-bbbf32a7-6915-4bc9-a089-27f3e4323c22.jpeg)
+
+
+Linking the Bootstrap:
+
+![todoapp](https://user-images.githubusercontent.com/83961643/182203580-9447fe60-c92c-4a90-975c-f9e16ef99908.jpeg)
 
 
 
