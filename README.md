@@ -120,5 +120,16 @@ Adding the security Dependency
 ![addingdependency](https://user-images.githubusercontent.com/83961643/181365853-645a5d53-bb77-41ee-8d8b-f6c734302e26.jpeg)
 
 
+[Debugging Problems in Full Stack](https://github.com/in28minutes/in28minutes-initiatives/blob/master/The-in28Minutes-TroubleshootingGuide-And-FAQ/fullstack.md#basic-authentication-problems)
+
+![login](https://user-images.githubusercontent.com/83961643/182184452-db82882f-7f79-4f72-a09d-28e2178700a3.jpeg)
+
+![rangs](https://user-images.githubusercontent.com/83961643/182184457-e9382fd1-62c0-4aeb-b53b-0bbb3de0b303.jpeg)
+
+![info](https://user-images.githubusercontent.com/83961643/182184470-f5abd5e7-0b85-4ab4-bd7b-28c96e3a158d.jpeg)
+
+
+
+
 Last Edit: July 2022
 
